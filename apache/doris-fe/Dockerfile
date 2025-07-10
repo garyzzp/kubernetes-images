@@ -1,0 +1,1 @@
+FROM apache/doris:fe-2.1.10
